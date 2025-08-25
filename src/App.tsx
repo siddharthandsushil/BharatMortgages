@@ -1,4 +1,4 @@
-import React, { useState, type JSX } from "react";
+import { useState, type JSX } from "react";
 import "./index.css";
 
 // Helper to create section ids from menu text
